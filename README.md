@@ -15,3 +15,5 @@ Generic Name (defines exactly what the software is. example: Calculator) \
 The primary programming language (example: Python) \
 The stack/framework in use (example PyGame) \
 For example, the paint program I am working on is called PaintApplication.Python.PyGame
+# Can I use these projects?
+Anyone and everyone may freely use the code for any purpose.
