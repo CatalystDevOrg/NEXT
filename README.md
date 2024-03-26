@@ -4,8 +4,8 @@ The New and Exciting of Tomorrow
 This is a repository of potential future Catalyst projects in their pre-alpha forms
 # What will be and what won't?
 Whether or not a project will go mainstream depends on the following factors:
-1. General development success \
-2. Community attention \
+1. General development success 
+2. Community attention 
 3. Potential use cases for the software
 # Why does it exist?
 Several projects are started but flop before they are pushed to the GitHub organization. This repository will allow them to be seen and evaluated by the community
